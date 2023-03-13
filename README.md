@@ -1,4 +1,4 @@
-# A very simple rule-based chatbot
+# A very simple rule-based chatbot : **Rulebot** 🤖
 
 ![showcase](https://github.com/saranpan/rule-based-chatbot/blob/main/images/showcase.png?raw=true)
 
